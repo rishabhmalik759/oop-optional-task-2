@@ -1,0 +1,32 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 3 products, 2 sources, 1 libraries
+[debug] current source = Set(${BASE}/src/main/scala/Temp.scala, ${BASE}/src/main/scala/queueOperations/ObjectiveQueue.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/main/scala/Temp.scala), removed = Set(${BASE}/src/main/scala/Main.scala), changed = Set(${BASE}/src/main/scala/queueOperations/ObjectiveQueue.scala), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] 
+[debug] Initial source changes:
+[debug] 	removed: Set(${BASE}/src/main/scala/Main.scala)
+[debug] 	added: Set(${BASE}/src/main/scala/Temp.scala)
+[debug] 	modified: Set(${BASE}/src/main/scala/queueOperations/ObjectiveQueue.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Main, queueOperations.ObjectiveQueue)
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] all 2 sources are invalidated
+[debug] Initial set of included nodes: Main, queueOperations.ObjectiveQueue
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[debug] compilation cycle 1
+[info] compiling 2 Scala sources to D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.5.7:compile for Scala 2.13.6
+[debug] [zinc] Running cached compiler 774d4bc8 for Scala compiler version 2.13.6
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\Risahbh\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.6\scala-library-2.13.6.jar
+[debug] 	-classpath
+[debug] 	D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\target\scala-2.13\classes
+[debug] Scala compilation took 0.9265772 s
+[info] done compiling

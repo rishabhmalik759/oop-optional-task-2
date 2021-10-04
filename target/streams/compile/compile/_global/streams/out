@@ -1,0 +1,7 @@
+[debug] Acquiring lock on file D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\project\target\.sbt-compilation-infos\tut-2-compile\.sbt-idea-lock ...
+[warn] D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\src\main\scala\Temp.scala:4:3: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses
+[warn]   queue;
+[warn]   ^
+[warn] 1 deprecation (since 2.13.0); re-run with -deprecation for details
+[warn] two warnings found
+[debug] Releasing lock on file D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\project\target\.sbt-compilation-infos\tut-2-compile\.sbt-idea-lock.

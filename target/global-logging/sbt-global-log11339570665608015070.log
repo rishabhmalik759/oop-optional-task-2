@@ -1,0 +1,14 @@
+[debug] > Exec(all {file:/D:/2.Semester-winter-2021/OOP/tut-homeworks/tut-2/}tut-2/products {file:/D:/2.Semester-winter-2021/OOP/tut-homeworks/tut-2/}tut-2/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\target\scala-2.13\classes ...
+[warn] D:\2.Semester-winter-2021\OOP\tut-homeworks\tut-2\src\main\scala\Temp.scala:4:3: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses
+[warn]   queue;
+[warn]   ^
+[warn] 1 deprecation (since 2.13.0); re-run with -deprecation for details
+[warn] two warnings found
+[info] done compiling
+[success] Total time: 1 s, completed Oct 4, 2021, 12:51:18 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
